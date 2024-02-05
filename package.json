@@ -1,0 +1,25 @@
+{
+  "name": "choi3179-express",
+  "version": "0.1.0",
+  "description": "my js express server studying",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choi3179/choi3179-express.git"
+  },
+  "keywords": [
+    "js",
+    "choi3179",
+    "server",
+    "express"
+  ],
+  "author": "choi3179",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/choi3179/choi3179-express/issues"
+  },
+  "homepage": "https://github.com/choi3179/choi3179-express#readme"
+}
