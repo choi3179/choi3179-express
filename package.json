@@ -1,6 +1,6 @@
 {
   "name": "choi3179-express",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "my js express server studying",
   "main": "app.js",
   "scripts": {
